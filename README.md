@@ -1,2 +1,2 @@
 # Key-Word-Search
-project for school project. Search for keyword in multiple links.
+Used this to help with a school project. Started coding less than a week ago. 
